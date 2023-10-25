@@ -7,7 +7,7 @@ const App = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const openModal = () => {
-    console.log("Open Modal button clicked");
+    console.log("Open Modal button ");
     setIsModalOpen(true);
   };
 
