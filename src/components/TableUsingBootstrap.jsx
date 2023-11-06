@@ -21,6 +21,7 @@ const TableUsingBootstrap = () => {
     state: "",
     country: "",
     email: "",
+    
     checkbox: false,
   });
 
